@@ -1,0 +1,19 @@
+.content {
+    display: flex;
+    flex:1;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1em;
+}
+
+.col {
+    width: 200px;
+}
+
+.h1 {
+    text-align: center;
+}
